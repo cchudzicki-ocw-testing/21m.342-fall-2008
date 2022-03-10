@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Assignments
 parent_type: CourseSection
-related_resources_text: Concert ([PDF](resources/empty_bottles))
+related_resources_text: Concert ([PDF](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/empty_bottles))
 resource_index_text: ''
 resourcetype: Video
 title: Empty Bottles

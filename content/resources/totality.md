@@ -12,10 +12,10 @@ parent_type: CourseSection
 related_resources_text: '**Scores**
 
 
-  Concert ([PDF](resources/totality_conc "Open in a new window."))
+  Concert ([PDF](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/totality_conc))
 
 
-  Transposed ([PDF](resources/totality_trans "Open in a new window."))'
+  Transposed ([PDF](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/totality_trans))'
 resource_index_text: ''
 resourcetype: Video
 title: Totality
