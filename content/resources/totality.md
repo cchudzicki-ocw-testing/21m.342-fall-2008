@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -18,6 +20,7 @@ related_resources_text: '**Scores**
   Transposed ([PDF](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/totality_trans))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Totality
 uid: 8ba1f5f3-d722-b130-ed94-f183cdd180c3
 video_files:
@@ -36,3 +39,4 @@ video_metadata:
 **Performed by:** MIT Festival Jazz Orchestra
 
 **Director:** Dr. Fred Harris
+

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides compositions and recordings for the course. These
+  recordings are primarily organized by composer/arranger name. In cases where the
+  band that recorded the selection is more prominent, the name of the bandleader is
+  given, with the composer/arranger indicated in bracket.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Listening

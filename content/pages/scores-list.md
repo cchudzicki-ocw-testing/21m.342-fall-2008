@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides scores for student study. Most of these correspond
+  to compositions on the listening list, and a few are also used in assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Scores List

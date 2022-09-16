@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course overview and information on
+  meeting times, the textbook, requirements, grading, and the schedule of lectures,
+  rehearsals, workshops, and performances.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

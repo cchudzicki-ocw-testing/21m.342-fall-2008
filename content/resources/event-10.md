@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Event 10 '
 uid: d2aae460-a4b8-d7bf-7515-7951dc186f2f
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Topics covered:** Soundpainting workshop with MIT Festival Jazz Ensemble
 
 **Instructor:** Walter Thompson
+
